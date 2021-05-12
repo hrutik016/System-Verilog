@@ -1,3 +1,3 @@
 # System-Verilog
 
-This Repo contains some of my SystemVerilog & Verilog Programs.
+This Repo contains some of my Verilog & SystemVerilog Programs.
