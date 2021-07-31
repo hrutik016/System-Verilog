@@ -1,4 +1,4 @@
-# System-Verilog
+# Verilog-SystemVerilog
 
 This Repo contains some of my Verilog & SystemVerilog Programs.
 
